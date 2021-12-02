@@ -703,8 +703,7 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("ONO.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -722,8 +721,7 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("KUMI.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -741,8 +739,7 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("KU.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -759,8 +756,7 @@ if button:
         link = '[MYRECOMMENDAQUARIUM](https://www.aquarium.co.jp/)'
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("AMA.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -778,8 +774,7 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("HO.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -797,8 +792,7 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("POPO.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -816,8 +810,7 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("10.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -835,8 +828,7 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("LL.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -854,8 +846,7 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open(".jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -873,8 +864,7 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("99.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -892,13 +882,10 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("MIGI.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
-        
-    
         
     elif n3 == 251:
         st.subheader('あなたにおすすめの水族館は長崎ペンギン水族館です。')
@@ -913,8 +900,7 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("RON.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -932,12 +918,11 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("MY.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
-        
+    
         
     elif n3 == 253:
         st.subheader('あなたにおすすめの水族館はアクアパーク品川です。')
@@ -952,8 +937,7 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("PYO.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -971,8 +955,7 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("8.jpg")
         st.image(img,caption="",use_column_width=True)
         img=Image.open("PEN.png")
         st.sidebar.image(img,caption="",use_column_width=True)
@@ -990,9 +973,9 @@ if button:
         st.sidebar.markdown(link, unsafe_allow_html=True)
         st.sidebar.write('水族館に興味を持った方はご参照ください')
         st.balloons()
-        from PIL import Image
-        img=Image.open("iruka.png")
+        img=Image.open("NAMA.jpg")
         st.image(img,caption="",use_column_width=True)
-        
+        img=Image.open("PEN.png")
+        st.sidebar.image(img,caption="",use_column_width=True)
         
   
